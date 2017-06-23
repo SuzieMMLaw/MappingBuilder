@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="MappingSDK12c.ColumnMetaData" project="MappingsAuto" 
+    file="/MappingsAuto/src/MappingSDK12c/ColumnMetaData.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="315" x="-68" y="-61"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="MappingSDK12c.Configuration" project="MappingsAuto" 
+    file="/MappingsAuto/src/MappingSDK12c/Configuration.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="140" x="324" y="-115"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="MappingSDK12c.ConstraintMetaData" project="MappingsAuto" 
+    file="/MappingsAuto/src/MappingSDK12c/ConstraintMetaData.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="335" x="445" y="-32"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="MappingSDK12c.DBUtils" project="MappingsAuto" 
+    file="/MappingsAuto/src/MappingSDK12c/DBUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="159" y="421"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="MappingSDK12c.MappingDriver" project="MappingsAuto" 
+    file="/MappingsAuto/src/MappingSDK12c/MappingDriver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="177" x="392" y="135"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="MappingSDK12c.MappingMetaData" project="MappingsAuto" 
+    file="/MappingsAuto/src/MappingSDK12c/MappingMetaData.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="302" x="506" y="72"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
