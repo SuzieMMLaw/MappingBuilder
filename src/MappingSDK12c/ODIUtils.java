@@ -33,7 +33,7 @@ public class ODIUtils{
 
 
 
-  public static String Project_Code="FORTHNET_OCDM_PROJECT";
+  public static String Project_Code="OCDM_PROJECT";
   public static String folder_name="AUTOMATED_LKP_MAPPINGS";
   public static String Context_Code="FORTHNET_CONTEXT";
   public static String parent_proj_folder="Customer Management Area";
